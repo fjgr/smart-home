@@ -6,7 +6,7 @@ Forma parte de **FJGR Labs** y recopila configuraciones, pruebas y desarrollos r
 
 ---
 
-## 🔧 Tecnologías
+## 🛠️ Tecnologías
 
 * Home Assistant
 * ESPHome
